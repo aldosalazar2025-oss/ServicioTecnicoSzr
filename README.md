@@ -16,3 +16,34 @@ El botón Exportar PDF abre el diálogo de impresión/guardar PDF de Windows. Lo
 
 ## Limitaciones
 Proyecto fuente no compilado en Windows desde este entorno. Requiere Flutter/Visual Studio y resolver dependencias en el primer `flutter pub get` (con Internet para descarga inicial). Verificar compilación y respaldos antes de usar con datos reales.
+
+# 🖥️ SERVICIO TÉCNICO PC
+
+Sistema de gestión de servicios técnicos de computadoras para Windows.
+
+## 📥 Descargar programa
+
+### 💻 Windows
+
+Descarga la última versión de SERVICIO TÉCNICO PC.
+
+[⬇️ **DESCARGAR SERVICIO TÉCNICO PC (.EXE)**](https://github.com/aldosalazar2025-oss/ServicioTecnicoSzr/releases/download/1.1.1/Servicio.Tecnico.SZR.exe)
+
+**Versión:** 1.1.1  
+**Tamaño:** 14.9 MB  
+**Sistema operativo:** Windows
+
+## 🚀 Instalación
+
+1. Haz clic en el enlace de descarga.
+2. Espera a que se descargue el archivo.
+3. Abre `Servicio.Tecnico.SZR.exe`.
+4. Sigue las indicaciones que aparezcan en pantalla.
+
+## 📌 Información
+
+- **Nombre:** SERVICIO TÉCNICO PC
+- **Plataforma:** Computadoras con Windows
+- **Formato:** Ejecutable `.exe`
+
+
