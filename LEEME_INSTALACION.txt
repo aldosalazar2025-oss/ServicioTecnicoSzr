@@ -1,0 +1,10 @@
+SERVICIO TÉCNICO SZR V8
+
+1. Haga una copia de seguridad de su proyecto y datos antes de actualizar.
+2. Copie los archivos de este paquete sobre C:\proyectos\servicio_tecnico_szr.
+3. Ejecute: flutter create --platforms=windows .
+4. Ejecute: flutter pub get
+5. Ejecute: flutter run -d windows
+
+Cambios V8: menú lateral desplazable para evitar overflow, título Copias de seguridad sin fondo, y asistencia de practicantes con colores y botones habilitados según estado.
+La base de datos existente no se elimina.

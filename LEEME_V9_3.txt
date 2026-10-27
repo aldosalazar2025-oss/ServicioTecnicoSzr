@@ -1,0 +1,9 @@
+SERVICIO TECNICO SZR V9.3
+
+1. Respalda tu base de datos y proyecto.
+2. Descomprime el ZIP en C:\proyectos\Servicio_Tecnico_szr.
+3. Haz doble clic en COMPILAR_WINDOWS.bat. Requiere Flutter y Visual Studio con C++.
+4. El ejecutable compilado y sus DLL estan en build\windows\x64\runner\Release. Copia la carpeta Release completa.
+
+Cambios: nombre comercial como receptor por defecto; instancia unica en Windows; icono SZR incluido.
+La compilacion no fue ejecutada aqui porque Flutter SDK y Windows no estan disponibles.

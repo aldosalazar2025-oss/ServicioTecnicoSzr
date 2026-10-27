@@ -1,0 +1,27 @@
+name: servicio_tecnico_szr
+description: Sistema local de gestion de reparaciones para Windows.
+publish_to: none
+version: 1.9.3+93
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite_common_ffi: ^2.3.6
+  path: ^1.9.1
+  path_provider: ^2.1.5
+  intl: ^0.20.2
+  pdf: ^3.11.1
+  printing: ^5.13.4
+  archive: ^3.6.1
+  file_picker: ^8.1.7
+  shared_preferences: ^2.3.2
+  crypto: ^3.0.6
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/logo_szr.png
